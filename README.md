@@ -226,6 +226,8 @@ A more extensive, but less curated list can be found [here](https://en.wikipedia
   - [Wiki](https://en.wikipedia.org/wiki/Encoded_Archival_Description), [A Primer (Video)](https://www.youtube.com/watch?v=WYWQeBRnhz0),[EAD3 Schemas](https://loc.gov/ead/ead3schema.html), [EAD 2002 Schemas](https://loc.gov/ead/eadschema.html)
 - [FictionBook](https://en.wikipedia.org/wiki/FictionBook) - an e-book format.
   - [Wiki](https://en.wikipedia.org/wiki/FictionBook), [XSD](http://www.fictionbook.org/index.php/Eng:XML_Schema_Fictionbook_2.1)
+- [FundsXML](https://www.fundsxml.org/) - an open, royalty-free standard for fund data exchange and regulatory reporting in the European fund industry.
+  - [XSD Schema](https://github.com/fundsxml/schema), [Handbook](https://fundsxml.github.io/book/)
 - [Geography Markup Language (GML)](https://www.ogc.org/standard/gml/) - a language for expressing geographical features.
   - [Wiki](https://en.wikipedia.org/wiki/Geography_Markup_Language), [Schemas](https://schemas.opengis.net/gml/)
 - [GraphML](http://graphml.graphdrawing.org/index.html) - format for describing graphs.
